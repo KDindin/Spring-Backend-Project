@@ -1,0 +1,86 @@
+2024-04-29T15:28:04.026+05:00  INFO 10568 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 10568 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T15:28:04.031+05:00  INFO 10568 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T15:28:06.035+05:00  INFO 10568 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T15:28:06.067+05:00  INFO 10568 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T15:28:06.068+05:00  INFO 10568 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T15:28:06.257+05:00  INFO 10568 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T15:28:06.258+05:00  INFO 10568 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2117 ms
+2024-04-29T15:28:06.922+05:00  INFO 10568 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T15:28:06.937+05:00  INFO 10568 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 3.729 seconds (process running for 6.458)
+2024-04-29T15:28:26.114+05:00  INFO 10568 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T15:28:26.115+05:00  INFO 10568 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T15:28:26.116+05:00  INFO 10568 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-29T16:12:22.366+05:00  INFO 19088 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 19088 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:12:22.369+05:00  INFO 19088 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:12:23.619+05:00  INFO 19088 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:12:23.638+05:00  INFO 19088 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:12:23.639+05:00  INFO 19088 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:12:23.752+05:00  INFO 19088 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:12:23.753+05:00  INFO 19088 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1320 ms
+2024-04-29T16:12:24.256+05:00  INFO 19088 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:12:24.271+05:00  INFO 19088 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.559 seconds (process running for 3.705)
+2024-04-29T16:12:24.351+05:00  INFO 19088 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:12:24.352+05:00  INFO 19088 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:12:24.354+05:00  INFO 19088 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-29T16:13:28.581+05:00  INFO 19088 --- [elk] [http-nio-8080-exec-5] b.s.elk.controller.EmployeeController    : Getting employee with ID '1'
+2024-04-29T16:13:33.095+05:00  INFO 19088 --- [elk] [http-nio-8080-exec-6] b.s.elk.controller.EmployeeController    : Getting employee with ID '2'
+2024-04-29T16:15:32.332+05:00  INFO 18804 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 18804 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:15:32.335+05:00  INFO 18804 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:15:33.690+05:00  INFO 18804 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:15:33.710+05:00  INFO 18804 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:15:33.711+05:00  INFO 18804 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:15:33.868+05:00  INFO 18804 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:15:33.869+05:00  INFO 18804 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1460 ms
+2024-04-29T16:15:34.411+05:00  INFO 18804 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:15:34.422+05:00  INFO 18804 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.781 seconds (process running for 4.099)
+2024-04-29T16:15:37.513+05:00  INFO 18804 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:15:37.513+05:00  INFO 18804 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:15:37.514+05:00  INFO 18804 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-29T16:23:04.261+05:00  INFO 17688 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 17688 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:23:04.264+05:00  INFO 17688 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:23:05.553+05:00  INFO 17688 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:23:05.581+05:00  INFO 17688 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:23:05.582+05:00  INFO 17688 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:23:05.735+05:00  INFO 17688 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:23:05.735+05:00  INFO 17688 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1400 ms
+2024-04-29T16:23:06.270+05:00  INFO 17688 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:23:06.281+05:00  INFO 17688 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.748 seconds (process running for 4.359)
+2024-04-29T16:23:10.737+05:00  INFO 17688 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:23:10.738+05:00  INFO 17688 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:23:10.739+05:00  INFO 17688 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-29T16:27:50.553+05:00  INFO 22736 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 22736 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:27:50.557+05:00  INFO 22736 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:27:51.795+05:00  INFO 22736 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:27:51.812+05:00  INFO 22736 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:27:51.813+05:00  INFO 22736 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:27:51.931+05:00  INFO 22736 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:27:51.932+05:00  INFO 22736 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1304 ms
+2024-04-29T16:27:52.440+05:00  INFO 22736 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:27:52.452+05:00  INFO 22736 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.57 seconds (process running for 3.619)
+2024-04-29T16:27:57.086+05:00  INFO 22736 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:27:57.086+05:00  INFO 22736 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:27:57.088+05:00  INFO 22736 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-04-29T16:30:08.003+05:00  INFO 15012 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 15012 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:30:08.006+05:00  INFO 15012 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:30:09.389+05:00  INFO 15012 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:30:09.408+05:00  INFO 15012 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:30:09.408+05:00  INFO 15012 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:30:09.542+05:00  INFO 15012 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:30:09.543+05:00  INFO 15012 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1471 ms
+2024-04-29T16:30:10.087+05:00  INFO 15012 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:30:10.098+05:00  INFO 15012 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.76 seconds (process running for 3.843)
+2024-04-29T16:30:18.147+05:00  INFO 15012 --- [elk] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:30:18.148+05:00  INFO 15012 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:30:18.149+05:00  INFO 15012 --- [elk] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-29T16:49:13.044+05:00  INFO 22584 --- [elk] [main] backend.spring.elk.ElkApplication        : Starting ElkApplication using Java 21.0.2 with PID 22584 (C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\Backend Spring Dina\Endterm project\elk)
+2024-04-29T16:49:13.047+05:00  INFO 22584 --- [elk] [main] backend.spring.elk.ElkApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-04-29T16:49:14.337+05:00  INFO 22584 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-29T16:49:14.355+05:00  INFO 22584 --- [elk] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-29T16:49:14.356+05:00  INFO 22584 --- [elk] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-29T16:49:14.486+05:00  INFO 22584 --- [elk] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-29T16:49:14.487+05:00  INFO 22584 --- [elk] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1371 ms
+2024-04-29T16:49:15.036+05:00  INFO 22584 --- [elk] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-29T16:49:15.050+05:00  INFO 22584 --- [elk] [main] backend.spring.elk.ElkApplication        : Started ElkApplication in 2.65 seconds (process running for 3.789)
+2024-04-29T16:49:42.227+05:00  INFO 22584 --- [elk] [http-nio-8080-exec-13] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-29T16:49:42.228+05:00  INFO 22584 --- [elk] [http-nio-8080-exec-13] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-29T16:49:42.230+05:00  INFO 22584 --- [elk] [http-nio-8080-exec-13] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
