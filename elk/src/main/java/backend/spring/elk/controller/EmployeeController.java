@@ -30,7 +30,9 @@ public class EmployeeController {
 
     @GetMapping(produces = { MediaType.APPLICATION_JSON_VALUE })
     public List<Employee> getAllEmployees() {
+        log.info("Getting all employees");
         return createEmployees();
+
     }
 
     @GetMapping("/{id}")
