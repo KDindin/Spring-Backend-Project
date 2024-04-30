@@ -1,2 +1,2 @@
-Spring Backend Endterm Project
+Spring Backend Endterm Project:
 ELK + Gatling load testing + Docker
